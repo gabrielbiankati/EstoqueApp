@@ -127,8 +127,8 @@ namespace EstoqueApp.Tests
             List<string> relatorio = estoque.RelatorioEstoque();
 
             // Assert
-            Assert.Contains("Produto: PC, Quantidade: 10, " + "Preco Unitario: 1500,00, Valor total", produtosEmEstoque);
-            Assert.Contains("Produto: Notebook, Quantidade: 20", produtosEmEstoque);
+            Assert.Contains("Produto: PC, Quantidade: 10, " + "Preco Unitario: 1500,00, Valor total", relatorio);
+            Assert.Contains("Produto: Notebook, Quantidade: 20", relatorio);
         }
     }
 }

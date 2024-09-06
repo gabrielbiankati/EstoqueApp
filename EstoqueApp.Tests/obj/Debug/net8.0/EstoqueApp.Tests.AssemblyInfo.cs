@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstoqueApp.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d0f993f04e8f2abdfa11b60073ab2ad06fcb61a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4244021e5eb1a1fdd418024cf09c80274767bf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstoqueApp.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstoqueApp.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
