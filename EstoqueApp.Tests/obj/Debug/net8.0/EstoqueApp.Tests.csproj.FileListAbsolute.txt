@@ -103,3 +103,4 @@ C:\Users\alunos-cesul\source\repos\EstoqueApp\EstoqueApp.Tests\obj\Debug\net8.0\
 C:\Users\alunos-cesul\source\repos\EstoqueApp\EstoqueApp.Tests\obj\Debug\net8.0\EstoqueApp.Tests.pdb
 C:\Users\alunos-cesul\source\repos\EstoqueApp\EstoqueApp.Tests\obj\Debug\net8.0\EstoqueApp.Tests.genruntimeconfig.cache
 C:\Users\alunos-cesul\source\repos\EstoqueApp\EstoqueApp.Tests\obj\Debug\net8.0\ref\EstoqueApp.Tests.dll
+C:\Users\alunos-cesul\source\repos\EstoqueApp\EstoqueApp.Tests\obj\Debug\net8.0\EstoqueApp.Tests.sourcelink.json
